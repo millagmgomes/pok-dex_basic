@@ -8,9 +8,10 @@
 
 > Status: Done ✔️
 
-### Virtual Pokedex that uses an API request to display more than 500 Pokemons on the screen.
+# Description
++ Virtual Pokedex that uses an API request to display more than 500 Pokemons on the screen.
 
-## languages used:
+# Languages used:
 
 + html
 + jss
